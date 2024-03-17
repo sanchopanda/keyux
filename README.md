@@ -232,7 +232,7 @@ startKeyUX(window, [
 
 The [`role="listbox"`](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/listbox_role)
 is used for lists from which a user may select one or
-more items which are static and, unlike HTML <select> elements, may contain images.
+more items which are static and, unlike HTML elements, may contain images.
 
 ```html
 <ul role="listbox">
